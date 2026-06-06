@@ -1,0 +1,7 @@
+[package]
+name = "oxide-energy-balance"
+version = "0.1.0"
+edition = "2021"
+description = "Experiment: energy conservation laws as runtime invariants for GPU workloads. Proves ternary operations preserve algebraic invariants through the full compile→execute→verify cycle."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/oxide-energy-balance"
